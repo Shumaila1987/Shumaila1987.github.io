@@ -1,5 +1,5 @@
 # Shumaila Liaqat
-## Data Analyst & Business Intelligence Professional
+## Data Analyst | Freelance & Remote | Seeking New Opportunities
 
 Hello and welcome! 👋
 
