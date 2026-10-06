@@ -21,7 +21,7 @@ I built this from start to finish — designed the database in MySQL Workbench, 
 
 #### Customer Segmentation — RFM Analysis
 I looked at customer data to find out who the most valuable customers are and how different groups behave. Used Python and SQL to do the analysis — something businesses can actually use.
-→ [View this project here](https://github.com/Shumaila1987/Customer-Segmentation-using-RFM-Analysis)
+→ [View this project here](https://github.com/Shumaila1987/Customer-Segmentation-using-RFM-Analysis.)
 
 #### UK LinkedIn Job Market Analysis
 Used Python to look at what employers in the UK actually want from data professionals. Which skills are most in demand? Where are the opportunities? Clear findings for anyone entering the field.
