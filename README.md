@@ -54,10 +54,12 @@ I have shared 5 datasets on Kaggle — other people can use them for their own w
 ---
 🎓 Education
  
-Master of Science in Data Science
+## Master of Science in Data Science
 — Built strong skills in data analysis, Python, statistics, and turning raw data into meaningful insights.
-Master in Mathematics
-— Developed logical thinking, problem-solving, and the ability to explain complex ideas simply skills I use every day in my data worK.
+
+## Master in Mathematics
+— Developed logical thinking, problem-solving, and the ability to explain complex ideas simply skills I use
+  every day in my data worK.
 
 ---
 ### 🛠️ What I Work With
