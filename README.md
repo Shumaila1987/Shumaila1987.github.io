@@ -24,6 +24,22 @@ I built this from start to finish — designed the database in MySQL Workbench, 
 I looked at customer data to find out who the most valuable customers are and how different groups behave. Used Python and SQL to do the analysis — something businesses can actually use.
 → [View this project here](https://github.com/Shumaila1987/Customer-Segmentation-using-RFM-Analysis)
 
+#### UK LinkedIn Job Market Analysis
+Used Python to look at what employers in the UK actually want from data professionals. Which skills are most in demand? Where are the opportunities? Clear findings for anyone entering the field.
+→ [View this project here](https://github.com/Shumaila1987/UK-LinkedIn-Job-Market-Analysis)
+
+#### Online Retail Sales — Power BI Dashboard
+Full end-to-end project: cleaned sales data, spotted trends, and built a visual story with Power BI. Shows what sells best, when, and where.
+→ [View this project here](https://github.com/Shumaila1987/Online-Retail-Sales-Power-BI-Dashboard)
+
+#### Superstore Sales Data Analysis
+Full end-to-end project — from cleaning the data to building the final dashboard. Used Excel, SQL, and Power BI to find sales patterns, best-performing products, and where the business can grow. Every step done by me.
+→ [View this project here](https://github.com/Shumaila1987/Superstore-Sales-Data-Analysis)
+
+#### Mobile Sales Dashboard — Power BI
+Analysed mobile phone sales data. Made a live dashboard showing KPIs, best-selling brands, regional performance, and customer patterns.
+→ [View this project here](https://github.com/Shumaila1987/Dashboard-on-Mobile_sales_dataset-using-Microsoft-Power-BI)
+
 #### Sales & Revenue Dashboard
 Took real sales data, cleaned it up, and made it easy to understand. Shows what's selling well, where money comes from, and how to make things better. Built with Excel and Power BI.
 → [View this project here](https://github.com/Shumaila1987/Revenue-Profit-Dashboard-Excel-Data-Analytics-Project)
