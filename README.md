@@ -46,11 +46,11 @@ Took real sales data, cleaned it up, and made it easy to understand. Shows what'
 
 #### Amazon Homepage Clone
 I wanted to learn how websites work — so I built one. Wrote all the HTML, CSS, and JavaScript myself. It looks like the real thing and the search button actually works.
-→ [View this project here](https://github.com/Shumaila1987/amazon-clone-project)
+→ [View this project here](https://github.com/Shumaila1987/Amazon-clone)
 
 #### Kaggle Datasets
 I have shared 5 datasets on Kaggle — other people can use them for their own work too. It feels good to contribute and give back to the community.
-→ [See my Kaggle profile](https://www.kaggle.com/your-shumailazubair)
+→ [See my Kaggle profile](https://www.kaggle.com/shumailazubair)
 
 ---
 
