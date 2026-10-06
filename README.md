@@ -33,7 +33,7 @@ Full end-to-end project: cleaned sales data, spotted trends, and built a visual 
 
 #### Superstore Sales Data Analysis
 Full end-to-end project — from cleaning the data to building the final dashboard. Used Excel, SQL, and Power BI to find sales patterns, best-performing products, and where the business can grow. Every step done by me.
-→ [View this project here](https://github.com/Shumaila1987/Superstore-Sales-Data-Analysis.)
+→ [View this project here](https://github.com/Shumaila1987/Superstore_Sales_Data_Analysis)
 
 #### Mobile Sales Dashboard — Power BI
 Analysed mobile phone sales data. Made a live dashboard showing KPIs, best-selling brands, regional performance, and customer patterns.
