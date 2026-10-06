@@ -41,7 +41,7 @@ Analysed mobile phone sales data. Made a live dashboard showing KPIs, best-selli
 
 #### Sales & Revenue Dashboard
 Took real sales data, cleaned it up, and made it easy to understand. Shows what's selling well, where money comes from, and how to make things better. Built with Excel and Power BI.
-→ [View this project here](https://github.com/Shumaila1987/Revenue_Profit_Dashboard_ Excel_Data_Analytics_Project)
+→ [View this project here](https://github.com/Shumaila1987/Revenue-Profit-Dashboard-_Excel-Data-Analytics-Project)
 
 #### Amazon Homepage Clone
 I wanted to learn how websites work — so I built one. Wrote all the HTML, CSS, and JavaScript myself. It looks like the real thing and the search button actually works.
