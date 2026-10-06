@@ -52,7 +52,14 @@ I have shared 5 datasets on Kaggle — other people can use them for their own w
 → [See my Kaggle profile](https://www.kaggle.com/shumailazubair)
 
 ---
+🎓 Education
+ 
+Master of Science in Data Science
+— Built strong skills in data analysis, Python, statistics, and turning raw data into meaningful insights.
+Master in Mathematics
+— Developed logical thinking, problem-solving, and the ability to explain complex ideas simply skills I use every day in my data worK.
 
+---
 ### 🛠️ What I Work With
 - *Data:* SQL, Python, Excel, Power BI
 - *Web:* HTML, CSS, JavaScript
@@ -62,13 +69,9 @@ I have shared 5 datasets on Kaggle — other people can use them for their own w
 
 ### 💜 A Little More About Me
 I live in Blackburn, United Kingdom. I hold two master's degrees, one in Mathematics and one in Data Science.
-
 My background isn't just about qualifications — it's about real experience. Teaching showed me how to make complex ideas clear to anyone. Healthcare work taught me responsibility, attention to detail, and always looking at the bigger picture — how the work affects real people. Those values stay with me in everything I do.
-
 I love the variety of my work — one day exploring fresh data, the next building something visual that tells a story. Every project teaches me something new.
-
 I am also a wife and a mother. My journey is as much for my children as it is for me — I want them to see that you can keep growing, learning, and building something you are proud of at any stage of life. I don't claim to know everything — but I show up, I work hard, and I never stop moving forward.
-
 I am always happy to connect, share ideas, and explore new opportunities. Thank you for visiting — I'm really glad you're here. ✨
 
 Let's connect. ✨
