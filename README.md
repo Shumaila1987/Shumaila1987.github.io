@@ -52,13 +52,13 @@ I have shared 5 datasets on Kaggle — other people can use them for their own w
 → [See my Kaggle profile](https://www.kaggle.com/shumailazubair)
 
 ---
-🎓 Education
+## 🎓 Education
  
-## Master of Science in Data Science
-— Built strong skills in data analysis, Python, statistics, and turning raw data into meaningful insights.
+### Master of Science in Data Science
+ Built strong skills in data analysis, Python, statistics, and turning raw data into meaningful insights.
 
-## Master in Mathematics
-— Developed logical thinking, problem-solving, and the ability to explain complex ideas simply skills I use
+### Master in Mathematics
+ Developed logical thinking, problem-solving, and the ability to explain complex ideas simply skills I use
   every day in my data worK.
 
 ---
