@@ -1,4 +1,3 @@
-# Shumaila1987.github.io
 # Shumaila Liaqat
 ## Data Analyst & Business Intelligence Professional
 
