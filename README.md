@@ -1,5 +1,5 @@
 # Shumaila Liaqat
-## Data Analyst | Freelance & Remote | Seeking New Opportunities
+## Data Analyst | Freelance & Remote | Seeking Opportunities in the UK
 
 Hello and welcome! 👋
 
