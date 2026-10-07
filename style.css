@@ -98,6 +98,71 @@ h2 {
   margin: 8px 0;
   display: block;
 }
+/* Project Card Images */
+.project-card img {
+  width: 100%;
+  height: 120px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin: 8px 0;
+  display: block;
+}
+
+/* ↓ PASTE THE NEW SIDE-BY-SIDE CODE RIGHT HERE — BETWEEN THE TWO SECTIONS ↓ */
+
+/* Side-by-Side Project Card Layout */
+.project-card-side {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  text-align: left;
+}
+
+.project-image-side {
+  flex: 1;
+  min-width: 280px;
+}
+
+.project-image-side img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.project-text-side {
+  flex: 1;
+  min-width: 280px;
+}
+
+.project-text-side h3 {
+  margin-bottom: 15px;
+  color: #1e3a8a;
+}
+
+.project-text-side p {
+  line-height: 1.7;
+  color: #334155;
+}
+
+@media (max-width: 768px) {
+  .project-card-side {
+    flex-direction: column;
+  }
+  .project-image-side,
+  .project-text-side {
+    min-width: 100%;
+  }
+}
+
+/* ↓ Your footer stays below — don't change it at all ↓ */
+.footer {
+  margin-top: 60px;
+  padding-top: 25px;
+  border-top: 2px solid #e0e6ed;
+  ...
+}
 
 .footer {
   margin-top: 60px;
