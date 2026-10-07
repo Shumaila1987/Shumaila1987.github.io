@@ -19,14 +19,13 @@ I am a Data Analyst with a unique background — former Mathematics Lecturer and
 | # | Project | Description | Tech Stack |
 |---|---|---|---|
 | 1 | **Electricity Billing Management System** | Full database design & architecture | MySQL · ER Diagrams |
-| 2 | **Customer Segmentation — RFM Analysis** | Behavioural analysis & customer grouping | Python · Pandas |
+| 2 | **Customer Segmentation — RFM Analysis** | Behavioural analysis & customer grouping | Python · Pandas . SQL |
 | 3 | **Superstore Sales Analysis** | End-to-end sales analysis & dashboard | Excel · SQL · Power BI |
-| 4 | **UK LinkedIn Job Market Analysis** | Trends & opportunities in UK data roles | Python |
+| 4 | **UK LinkedIn Job Market Analysis** | Trends & opportunities in UK data roles | Python. Power BI |
 | 5 | **Revenue & Profit Dashboard** | Interactive Excel dashboard with dynamic filters | Excel |
-| 6 | **Mobile Sales Dashboard** | Sales KPIs & regional performance insights | Power BI |
-| 7 | **Online Retail Sales Dashboard** | Full retail sales analysis & visualisation | Power BI · Python |
-| 8 | **[8th Project Name]** | Add description here | Tools used |
-| 9 | **[9th Project Name]** | Add description here | Tools used |
+| 6 | **Mobile Sales Dashboard** | Sales KPIs & regional performance insights | Excel . Power BI |
+| 7 | **Online Retail Sales Dashboard** | Full retail sales analysis & visualisation | Power BI | Python |
+| 8 | **Amazon Clone page** | Responsive Homepage design & layout | HTML · CSS . JavaScript  |
 
 ---
 
