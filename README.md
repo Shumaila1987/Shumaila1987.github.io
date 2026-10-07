@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-I hold dual Master’s degrees in Mathematics and Data Science. I am working as a freelance Data Analyst and also do remote work, applying my skills with Advance Excel, Python, SQL, Power BI, HTML, and CSS to turn data into clear, meaningful insights. I am based in Blackburn, UK — always learning, always growing, and ready for my next opportunity.
+I hold dual Master’s degrees in Mathematics and Data Science. I am working as a freelance Data Analyst and also do remote work, applying my skills with Advance Excel, Python, SQL, Power BI, HTML, and CSS to turn data into clear, meaningful insights. I am based in Blackburn, UK. Always learning, always growing, and ready for my next opportunity.
 
 - 📍 Based in Blackburn, UK
 - 💼 Currently working freelance & remotely
