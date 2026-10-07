@@ -43,7 +43,7 @@ I hold dual Master’s degrees in Mathematics and Data Science. I am working as 
 
 - 🌐 **Portfolio:** [shumailaliaqat.com](https://shumailaliaqat.com)
 - 💼 **LinkedIn:** [linkedin.com/in/shumaila-liaqat](https://linkedin.com/in/shumaila-liaqat)
-- 🐙 **GitHub:** [github.com/shumaila1987](https://github.com/shumaila1987)
+- 🐙 **GitHub:** [github.com/shumaila1987](https://github.com/Shumaila1987)
 
 ---
 
