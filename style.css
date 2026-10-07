@@ -231,6 +231,50 @@ a, .btn {
   transform: scale(1.02);
   box-shadow: 0 8px 25px rgba(74, 154, 194, 0.35);
 }
+  /* === CLEAN PROFESSIONAL STYLING === */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.7;
+  color: #2c3e50;
+  background-color: #f8fafc;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+}
+
+.about {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 50px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+}
+
+.project-card, .project-card-side {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  margin-bottom: 30px;
+}
+
+h1, h2, h3 {
+  color: #1a365d;
+  font-weight: 600;
+}
+
+a {
+  color: #2b6cb0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2c5282;
+  text-decoration: underline;
+}
 .footer {
   margin-top: 60px;
   padding-top: 25px;
