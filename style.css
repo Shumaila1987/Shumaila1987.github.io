@@ -74,6 +74,10 @@ h2 {
   font-size: 0.95rem;
 }
 
+.project-card p strong {
+  color: #2563eb;
+}
+
 .footer {
   margin-top: 60px;
   padding-top: 25px;
