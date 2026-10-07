@@ -6,12 +6,24 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #f0f4f8;
+  background-image: url('background4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
   color: #1a2b4a;
   line-height: 1.7;
   max-width: 900px;
   margin: 0 auto;
   padding: 40px 25px;
+}
+
+.about, .projects {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 30px;
 }
 
 .header {
