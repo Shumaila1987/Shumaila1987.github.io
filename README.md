@@ -24,7 +24,7 @@ I am a Data Analyst with a unique background — former Mathematics Lecturer and
 | 4 | **UK LinkedIn Job Market Analysis** | Trends & opportunities in UK data roles | Python. Power BI |
 | 5 | **Revenue & Profit Dashboard** | Interactive Excel dashboard with dynamic filters | Excel |
 | 6 | **Mobile Sales Dashboard** | Sales KPIs & regional performance insights | Excel . Power BI |
-| 7 | **Online Retail Sales Dashboard** | Full retail sales analysis & visualisation | Power BI | Python |
+| 7 | **Online Retail Sales Dashboard** | Full retail sales analysis & visualisation | Power BI . Python |
 | 8 | **Amazon Clone page** | Responsive Homepage design & layout | HTML · CSS . JavaScript  |
 
 ---
