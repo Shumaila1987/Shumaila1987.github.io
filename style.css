@@ -156,7 +156,7 @@ h2 {
   }
 
 .profile-pic {
-  width: 220px;        /* ← Fixed neat size — not too big, not too small */
+  width: 180px;        /* ← Fixed neat size — not too big, not too small */
   max-width: 100%;     /* ← On phones it will shrink automatically */
   height: auto;        /* ← Keeps correct shape — NO stretching! */
   border-radius: 10px;
