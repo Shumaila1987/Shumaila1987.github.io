@@ -124,7 +124,7 @@ h2 {
 }
 
 .project-image-side img {
-  width: 100%;
+  width: 280px;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
@@ -156,13 +156,7 @@ h2 {
   }
 }
 
-/* ↓ Your footer stays below — don't change it at all ↓ */
-.footer {
-  margin-top: 60px;
-  padding-top: 25px;
-  border-top: 2px solid #e0e6ed;
-  ...
-}
+
 .profile-pic {
   width: 180px;
   height: auto;
