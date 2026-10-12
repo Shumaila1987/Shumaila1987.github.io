@@ -26,7 +26,7 @@ I hold dual Master’s degrees in Mathematics and Data Science. I am working as 
 | 6 | **Mobile Sales Dashboard** | Sales KPIs & regional performance insights | Excel . Power BI |
 | 7 | **Online Retail Sales Dashboard** | Full retail sales analysis & visualisation | Power BI . Python |
 | 8 | **Amazon Clone page** | Responsive Homepage design & layout | HTML · CSS . JavaScript  |
-
+| 9 | **Hospital Patient Readmission Analysis** | Healthcare risk & readmission patterns | Python . Power BI |
 ---
 
 ## 🛠️ Skills & Tools
