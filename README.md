@@ -27,6 +27,8 @@ I hold dual Master’s degrees in Mathematics and Data Science. I am working as 
 | 7 | **Online Retail Sales Dashboard** | Full retail sales analysis & visualisation | Power BI . Python |
 | 8 | **Amazon Clone page** | Responsive Homepage design & layout | HTML · CSS . JavaScript  |
 | 9 | **Hospital Patient Readmission Analysis** | Healthcare risk & readmission patterns | Python . Power BI |
+| 10 | **UK Road Safety Analysis** | Road‑accident pattern exploration & visualisation | Excel . Pivot Tables . Charts |
+| 11 | **Profit & Discount Performance Analysis** | Retail‑sales profit‑&‑discount‑pattern analysis & dashboard | Power Query . Power BI |
 ---
 
 ## 🛠️ Skills & Tools
