@@ -29,6 +29,7 @@ I hold dual Master’s degrees in Mathematics and Data Science. I am working as 
 | 9 | **Hospital Patient Readmission Analysis** | Healthcare risk & readmission patterns | Python . Power BI |
 | 10 | **UK Road Safety Analysis** | Road‑accident pattern exploration & visualisation | Excel . Pivot Tables . Charts |
 | 11 | **Profit & Discount Performance Analysis** | Retail‑sales profit‑&‑discount‑pattern analysis & dashboard | Power Query . Power BI |
+| 12 | **Robust_ML_Retail_Sales_Prediction** | Tested prediction-model robustness against missing-values & outliers | Excel . Python . Scikit-learn . Matplotlib |
 ---
 
 ## 🛠️ Skills & Tools
