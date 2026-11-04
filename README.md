@@ -32,6 +32,8 @@ I hold dual Master’s degrees in Mathematics and Data Science. I am working as 
 | 12 | **Robust_ML_Retail_Sales_Prediction** | Tested prediction-model robustness against missing-values & outliers | Excel . Python . Scikit-learn . Matplotlib |
 | 13 | **Retail‑Sales Robustness Experiment** | Assessed Random‑Forest sensitivity to extreme‑price outliers & missing‑unit‑price entries | Excel · Python · Scikit‑learn · Matplotlib |
 | 14 | **Cafe‑Sales Robustness‑Testing Project** | Tested Random‑Forest prediction robustness against synthetic extreme‑price outliers in cafe‑sales transaction‑data | Python · Scikit‑learn · Matplotlib |
+| 15 | **Air‑Quality‑Forecasting‑Model‑Robustness‑Test** | Tested Random‑Forest forecast‑robustness for urban PM10 sensor‑readings against missing lag‑values & synthetic positive‑spike outliers | Python · Scikit‑learn · Matplotlib |
+| 16 | **Robustness‑Series‑Interactive‑Dashboard** | Consolidated four robustness‑testing experiment results into one interactive Power BI view; compare baseline‑RMSE & percentage‑error‑rise across all four forecast‑studies | Power BI · CSV data files |
 ---
 
 ## 🛠️ Skills & Tools
